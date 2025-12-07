@@ -47,3 +47,5 @@ utilizando:
 | GPIO 21 | T_CS  | Touch CS       |
 
 Buzzer conectado a GPIO 25.
+<img width="584" height="366" alt="image" src="https://github.com/user-attachments/assets/0830dfad-a693-4e43-abc8-0e5824954756" />
+
